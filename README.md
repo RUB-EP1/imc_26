@@ -5,6 +5,7 @@
 - Main webpage: https://physicsmasterclasses.org/
 - Schedule (2026): https://physicsmasterclasses.org/index.php?cat=schedule&page=schedule_2026
   - Locations: Freiburg, Vilnius, Milan, Bochum
+- LHCb pecific material https://lhcb-outreach.web.cern.ch/lhcbinternationalmasterclasses/d0-lifetime/
 
 ## Poster
 - Download: [lhcb_imc_rub_26.pdf](lhcb_imc_rub_26.pdf)
